@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "zh-CN"
+title = "Shooturkey"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+publishDir = "docs"
+[params]
+  author = "Shooturkey"
+  description = "Shooturkey"
+[params.search]
+  enable = false
+[params.darkmode]
+  enable = false
